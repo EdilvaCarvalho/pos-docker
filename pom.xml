@@ -6,9 +6,9 @@
     <version>1.0</version>
     <packaging>pom</packaging>
     <modules>
-        <module>../pos-docker-shared</module>
-        <module>../pos-docker-core</module>
-        <module>../pos-docker-web</module>
+        <module>pos-docker-shared</module>
+        <module>pos-docker-core</module>
+        <module>pos-docker-web</module>
     </modules>
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
